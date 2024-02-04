@@ -42,7 +42,7 @@ Add the following lines in the sweep.sh script. You should modify 'YOUR-USER' wi
 ```bash
   #!/bin/zsh
 
-  ~ cd /Users/YOUR-USER/SweepPro
+  cd /Users/YOUR-USER/SweepPro
 
   python3 cleaner.py
 ```
@@ -54,7 +54,7 @@ Press "Ctrl + X" for close and save the script, then press "Y" and "Enter" for f
 Run the following code in your terminal.
 
 ```bash
-  ~ sh sweep.sh
+  ~ sudo sh sweep.sh
 ```
 
 Move any file to your Downloads folder for activating the program. Enjoy!
