@@ -5,6 +5,7 @@
 # Sweep Pro
 
 App for keep clean and organized your Downloads folder. When you run the app, it will move all your files into different folders depending on their extension.
+https://sweep-pro.tech/
 
 
 ## Automatize your file
