@@ -8,6 +8,7 @@ from extensions import *
 
 import logging
 
+# paths
 source_dir = os.path.join(os.path.expanduser("~"), "Downloads" + "/")
 dest_dir_music = os.path.join(source_dir, "Music")
 dest_dir_images = os.path.join(source_dir, "Images")
