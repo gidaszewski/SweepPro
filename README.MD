@@ -54,8 +54,19 @@ Press "Ctrl + X" for close and save the script, then press "Y" and "Enter" for f
 Run the following code in your terminal.
 
 ```bash
-  ~ sudo sh sweep.sh
+  ~ sh sweep.sh
 ```
 
 Move any file to your Downloads folder for activating the program. Enjoy!
     
+## Tech Stack
+
+Python, Linux
+
+
+## License
+
+[MIT](https://github.com/gidaszewski/SweepPro/blob/master/LISENSE)
+
+This readme was created with readme.so :)
+
