@@ -4,7 +4,7 @@ from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
 from os.path import exists, join, splitext
 from shutil import move
-from extensions import *
+from core.cleaner.extensions import *
 
 import logging
 
